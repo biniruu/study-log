@@ -543,3 +543,5 @@ wp-config.php
 # .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/git,node,yarn,macos,react,vuejs,dotenv,nextjs,nuxtjs,windows,intellij,webstorm,visualstudiocode,gatsby,wordpress
+
+sample/*
