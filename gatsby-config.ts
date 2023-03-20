@@ -8,11 +8,11 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.mjs
-    siteTitle: `Dev Notes`,
-    siteTitleAlt: `개발 노트`,
+    siteTitle: `인턴 B의 학습일지`,
+    siteTitleAlt: `인턴 B의 학습일지`,
     siteHeadline: `biniruu`,
     siteUrl: `https://biniruu.github.io`,
-    siteDescription: `뭐라도 도움 받은 것이 있다면 일단 기록합니다.`,
+    siteDescription: `팀장님도 인용하는 블로그를 쓰는 그날까지!!`,
     siteImage: `/banner.jpg`,
     siteLanguage: `ko`,
     author: `@biniruu`,
