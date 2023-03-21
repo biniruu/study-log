@@ -4,6 +4,7 @@ import type { GatsbyConfig, PluginRef } from "gatsby";
 const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE;
 
 const config: GatsbyConfig = {
+  pathPrefix: `/study-log`,
   siteMetadata: {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
@@ -11,7 +12,7 @@ const config: GatsbyConfig = {
     siteTitle: `인턴 B의 학습일지`,
     siteTitleAlt: `인턴 B의 학습일지`,
     siteHeadline: `biniruu`,
-    siteUrl: `https://biniruu.github.io`,
+    siteUrl: `https://biniruu.github.io/study-log`,
     siteDescription: `팀장님도 인용하는 블로그를 쓰는 그날까지!!`,
     siteImage: `/banner.jpg`,
     siteLanguage: `ko`,
